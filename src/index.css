@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
+body {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.card__field {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.column__add-card {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.column__header {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+code {
+  font-family: 'Ubuntu', sans-serif;
+
+}
